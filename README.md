@@ -1,3 +1,6 @@
+Usuario página veronica2018
+password Beronica2018
+
 El Proyecto consta del siguiente tema:
 Secciones de hitos turísticos,arquitectura, lugares imperdibles y contacto.
 Contener al menos 5 páginas.
